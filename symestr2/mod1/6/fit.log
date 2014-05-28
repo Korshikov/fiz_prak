@@ -1,0 +1,617 @@
+
+
+*******************************************************************************
+Thu Apr  3 23:44:31 2014
+
+
+FIT:    data read from 'vah_vacum_diod'
+        format = z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(u)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 10.6832           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0
+
+initial set of free parameter values
+
+a               = 1
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Thu Apr  3 23:45:24 2014
+
+
+FIT:    data read from 'vah_vacum_diod'
+        format = z
+        #datapoints = 20
+        residuals are weighted equally (unit weight)
+
+function used for fitting: y(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 48567.2           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 49.814
+
+initial set of free parameter values
+
+a               = 1.001
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3.78254
+rel. change during last iteration : -7.27098e-06
+
+degrees of freedom    (FIT_NDF)                        : 19
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.446185
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.199081
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0117918        +/- 0.002003     (16.99%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Thu Apr  3 23:47:18 2014
+
+
+FIT:    data read from 'vah_vacum_diod' using 1:2
+        format = x:z
+        x range restricted to [25.0000 : 50.0000]
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: y(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 0.361002          delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 40.0682
+
+initial set of free parameter values
+
+a               = 0.0117918
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.0750317
+rel. change during last iteration : -2.6292e-06
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.19369
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0375158
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.0194973        +/- 0.002791     (14.31%)
+
+
+correlation matrix of the fit parameters:
+
+               a      
+a               1.000 
+
+
+*******************************************************************************
+Fri Apr  4 01:03:16 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 38.6093           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 51.5246
+
+initial set of free parameter values
+
+a               = 0.0194973
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.36122e-07
+rel. change during last iteration : -2.52915e-08
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000164998
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.72244e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000117335      +/- 3.132e-06    (2.669%)
+b               = 0.0416479        +/- 0.0002282    (0.5479%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.962  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 01:04:05 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 38097.9           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 51.5246
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 1.36122e-07
+rel. change during last iteration : -2.46126e-08
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000164998
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.72244e-08
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000117335      +/- 3.132e-06    (2.669%)
+b               = 0.0416479        +/- 0.0002282    (0.5479%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.962  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 01:07:09 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 36667.2           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 50.6838
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.85961e-06
+rel. change during last iteration : -1.10039e-10
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00140425
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.97192e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000271443      +/- 2.569e-05    (9.464%)
+b               = 0.244371         +/- 0.001841     (0.7535%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.958  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 01:24:28 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.69697e-06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 51.4725
+
+initial set of free parameter values
+
+a               = 0.000271443
+b               = 0.244371
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 7.18516e-07
+rel. change during last iteration : -5.86981e-06
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000379082
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.43703e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000289863      +/- 7.257e-06    (2.504%)
+b               = 0.242693         +/- 0.0005282    (0.2176%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.963  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 01:27:38 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 37388.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 51.7496
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 7.69972e-06
+rel. change during last iteration : -1.91634e-12
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00124095
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.53994e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000655469      +/- 2.337e-05    (3.565%)
+b               = 1.04859          +/- 0.00171      (0.1631%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.962  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 01:30:58 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 33890.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 51.0114
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.000783824
+rel. change during last iteration : -2.09464e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0125206
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000156765
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.000740617      +/- 0.0002307    (31.16%)
+b               = 3.61164          +/- 0.01664      (0.4609%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.959  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 01:33:16 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 26926.5           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 51.0468
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.00714973
+rel. change during last iteration : -4.11424e-11
+
+degrees of freedom    (FIT_NDF)                        : 5
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0378146
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00142995
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.00878813       +/- 0.0007127    (8.11%)
+b               = 10.9835          +/- 0.05145      (0.4684%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.961  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 02:00:08 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+BREAK:          No data to fit 
+
+
+
+*******************************************************************************
+Fri Apr  4 02:00:53 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [35.0000 : 105.000]
+BREAK:          No data to fit 
+
+
+
+*******************************************************************************
+Fri Apr  4 02:01:54 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        x range restricted to [0.000390000 : 0.000500000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2936.74           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.707107
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.000213762
+rel. change during last iteration : -2.9823e-10
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0084412
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.12539e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6883.1           +/- 121.1        (1.759%)
+b               = -26.2224         +/- 0.0527       (0.201%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.997  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 02:47:58 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Fri Apr  4 02:48:04 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2936.74           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.707107
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.000213762
+rel. change during last iteration : -2.9823e-10
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0084412
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.12539e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 6883.1           +/- 121.1        (1.759%)
+b               = -26.2224         +/- 0.0527       (0.201%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.997  1.000 
+
+
+*******************************************************************************
+Fri Apr  4 21:23:57 2014
+
+
+FIT:    data read from "vah_vacum_diod"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1404.92           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.707107
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.0113628
+rel. change during last iteration : -4.04711e-10
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0615436
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00378761
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -58492.8         +/- 882.7        (1.509%)
+b               = 9.73347          +/- 0.3843       (3.948%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.997  1.000 
